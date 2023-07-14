@@ -1,0 +1,33 @@
+.widgets {
+    width: 100%;
+    height: 300px;
+    background-color: cornflowerblue;
+    display: flex;
+    margin-bottom: 20px;
+}
+.big {
+    display: flex;
+    justify-content: space-between;
+
+}
+.one_big {
+    width: 250px;
+    height: 280px;
+    background-color: darkblue;
+}
+.two_big {
+    width: 250px;
+    height: 280px;
+    background-color: darkblue;
+}
+.three_big {
+    width: 250px;
+    height: 280px;
+    background-color: darkblue;
+}
+.contacts {
+    width: 100%;
+    height: 300px;
+    background-color: cornflowerblue;
+    margin-top: 20px;
+}
