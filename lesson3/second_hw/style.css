@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+body {
+    margin: 0;
+    font-family: 'Jost', sans-serif;
+}
+.menu {
+    background: rgba(83, 81, 81, 0.10);
+    width: 100vw;
+    height: 196.4px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+a {
+    text-decoration: none;
+    color: #7A7070;
+    font-size: 35px;
+    padding: 93px;
+}
+img {
+    width: 621px;
+    height: 621px;
+    /*padding: 0px 135px 128px 756px;*/
+    float: right;
+
+}
+.general_info {
+    display: flex;
+    flex-direction: column;
+
+}
+.general_info h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: 400;
+    margin-left: 148px;
+
+
+}
+.general_info p {
+    color: #000;
+    font-size: 35px;
+    font-weight: 400;
+    margin-left: 148px;
+    padding-top: 10px;
+
+}
+.first_button {
+    width: 150px;
+    height: 55px;
+    border-radius: 30px;
+    border: 1px solid #000;
+    font-family: 'Jost', sans-serif;
+}
+.second_button {
+    width: 130px;
+    height: 55px;
+    border-radius: 30px;
+    border: 1px solid #000;
+    background: rgba(61, 111, 180, 0.29);
+    font-family: 'Jost', sans-serif;
+}
