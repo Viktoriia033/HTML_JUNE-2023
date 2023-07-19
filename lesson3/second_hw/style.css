@@ -20,8 +20,8 @@ a {
 img {
     width: 621px;
     height: 621px;
-    /*padding: 0px 135px 128px 756px;*/
-    float: right;
+    margin: -420px 135px 128px 756px;
+
 
 }
 .general_info {
@@ -45,12 +45,21 @@ img {
     padding-top: 10px;
 
 }
+.buttom_general {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 148px;
+    margin-top: -222px;
+}
 .first_button {
     width: 150px;
     height: 55px;
     border-radius: 30px;
     border: 1px solid #000;
     font-family: 'Jost', sans-serif;
+    margin-right: 36px;
+
+
 }
 .second_button {
     width: 130px;
@@ -59,4 +68,10 @@ img {
     border: 1px solid #000;
     background: rgba(61, 111, 180, 0.29);
     font-family: 'Jost', sans-serif;
+
+
+}
+.img {
+    display: flex;
+    justify-content: flex-end;
 }

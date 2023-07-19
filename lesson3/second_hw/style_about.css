@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+body {
+    margin: 0;
+    font-family: 'Jost', sans-serif;
+}
+.menu {
+    background: rgba(83, 81, 81, 0.10);
+    width: 100vw;
+    height: 196.4px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+a {
+    text-decoration: none;
+    color: #7A7070;
+    font-size: 35px;
+    padding: 93px;
+}
+h1 {
+    color: #000;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+p {
+    color: #000;
+    font-family: Jost;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.inform_lorem {
+    margin: 415px 106px 354px 148px;
+}
