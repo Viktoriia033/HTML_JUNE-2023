@@ -1,0 +1,65 @@
+
+body {
+    margin: 0;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.top {
+    width: 415px;
+    height: 515px;
+    margin-top: 15px;
+    border: 1px solid darkgray;
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    width: 415px;
+    height: 85px;
+    margin-top: 12px;
+    border: 1px solid darkgrey;
+
+}
+#instagram {
+    width: 265px;
+    height: 90px;
+}
+#user {
+    height: 40px;
+    width: 250px;
+   margin-top: 10px;
+    margin-bottom: 5px;
+    border: 1px solid darkgrey;
+}
+#password {
+    height: 40px;
+    width: 250px;
+    border: 1px solid darkgrey;
+}
+#main_form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button {
+    height: 40px;
+    width: 250px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+#footer_p {
+    text-align: center;
+    margin-top: 34px;
+}
+.icons_facebook {
+    display: flex;
+}
+.bi-facebook {
+    margin: 17px 4px 0 0;
+}
