@@ -15,7 +15,7 @@ body {
     border-radius: 10px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    /*justify-content: center;*/
     flex-direction: column;
     margin-top: 150px;
 }
